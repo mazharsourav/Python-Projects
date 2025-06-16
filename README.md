@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a4e7a59-0035-493e-acaa-c31d79e3203a)# 🐍 Python Projects
+# 🐍 Python Projects
 
 Welcome to my collection of Python projects — from small games to creative scripts, built for fun and learning.  
 Each project is self-contained, beginner-friendly, and written in clean Python 3 code.
