@@ -1,4 +1,4 @@
-# 🐍 Python Projects
+![image](https://github.com/user-attachments/assets/8a4e7a59-0035-493e-acaa-c31d79e3203a)# 🐍 Python Projects
 
 Welcome to my collection of Python projects — from small games to creative scripts, built for fun and learning.  
 Each project is self-contained, beginner-friendly, and written in clean Python 3 code.
@@ -9,8 +9,8 @@ Each project is self-contained, beginner-friendly, and written in clean Python 3
 
 | File                  | Description                                      |
 |-----------------------|--------------------------------------------------|
-| `guessing_game.py`    | 🎯 A number guessing game with hints and retries |
-| `madlib_story.py`     | ✍️  An interactive Mad Libs story generator       |
+| `guess number.py`    | 🎯 A number guessing game with hints and retries |
+| `madlib generator.py`     | ✍️  An interactive Mad Libs story generator       |
 
 More projects will be added as I learn and build!
 
@@ -29,4 +29,4 @@ More projects will be added as I learn and build!
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Python-Projects.git
+   git clone https://github.com/mazharsourav/Python-Projects.git
